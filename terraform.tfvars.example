@@ -16,3 +16,5 @@ jumphost_password="ThisIsNotVerySecure!"
 
 # Deploy Azure Kubernetes Cluster
 deploy_aks=false
+
+# Add logic for quick set up or custom setup
